@@ -1,4 +1,4 @@
-# TranslateText<a name="API_TranslateText"></a>
+# TranslateText<a name="API_TranslateText"kk></a>
 
 Translates input text from the source language to the target language\. You can translate between English \(en\) and one of the following languages, or between one of the following languages and English\.
 + Arabic \(ar\)
